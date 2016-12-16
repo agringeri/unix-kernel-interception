@@ -1,0 +1,8 @@
+Sep 15 01:39:39 anthony-gringeri kernel: [10884.257075] User 1000 is opening file: /usr/share/locale/en_US/LC_MESSAGES/gcc-4.8.mo
+Sep 15 01:39:39 anthony-gringeri kernel: [10884.257077] User 1000 is opening file: /usr/share/locale/en/LC_MESSAGES/gcc-4.8.mo
+Sep 15 01:39:39 anthony-gringeri kernel: [10884.257079] User 1000 is opening file: /usr/share/locale-langpack/en_US/LC_MESSAGES/gcc-4.8.mo
+Sep 15 01:39:39 anthony-gringeri kernel: [10884.257081] User 1000 is opening file: /usr/share/locale-langpack/en/LC_MESSAGES/gcc-4.8.mo
+Sep 15 01:39:39 anthony-gringeri kernel: [10884.257329] User 1000 is opening file: /proc/meminfo
+Sep 15 01:39:39 anthony-gringeri kernel: [10884.257375] User 1000 is closing file descriptor: 6
+Sep 15 01:39:39 anthony-gringeri kernel: [10884.257389] User 1000 is opening file: /proc/meminfo
+Sep 15 01:39:39 anthony-gringeri kernel: [10884.257405] User 1000 is closing file descriptor: 6
